@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+groq_key.txt
+*.db
